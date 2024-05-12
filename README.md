@@ -75,7 +75,7 @@ Install dependencies for client
   npm install
 ```
 
-Start the server
+Start the server for frontend
 
 ```bash
   npm run start
@@ -93,7 +93,7 @@ Install dependencies for server
   npm install
 ```
 
-Start the server
+Start the server for backend
 
 ```bash
   nodemon server.js
